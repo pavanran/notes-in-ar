@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 # mentra-sticky-note
 
 To install dependencies:
@@ -31,3 +32,20 @@ Voice commands:
 
 “pin note 1” → keep a note always on your dashboard
 >>>>>>> d636a0dbc1a8a2475269e7a1a8dbc078c9ef55c0
+=======
+# mentra-sticky-note
+
+To install dependencies:
+
+```bash
+bun install
+```
+
+To run:
+
+```bash
+bun run index.ts
+```
+
+This project was created using `bun init` in bun v1.1.4. [Bun](https://bun.sh) is a fast all-in-one JavaScript runtime.
+>>>>>>> origin/master
